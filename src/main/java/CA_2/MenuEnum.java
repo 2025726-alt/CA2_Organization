@@ -1,3 +1,4 @@
+// MENU ENUM - Console menu options using ENUM for structured navigation
 package CA_2;
 
 /**
