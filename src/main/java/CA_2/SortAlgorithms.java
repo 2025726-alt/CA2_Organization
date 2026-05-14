@@ -1,4 +1,5 @@
 // SORT ALGORITHMS - Recursive Merge Sort (O(n log n) guaranteed performance)
+// WHY MERGE SORT: Guaranteed O(n log n), stable, recursive by nature
 package CA_2;
 
 import java.util.*;
