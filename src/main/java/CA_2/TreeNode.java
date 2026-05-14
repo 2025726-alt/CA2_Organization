@@ -1,3 +1,4 @@
+// TREE NODE - Node structure for binary tree (left and right children)
 package CA_2;
 
 /**
