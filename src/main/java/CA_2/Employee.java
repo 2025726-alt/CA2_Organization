@@ -1,3 +1,4 @@
+// EMPLOYEE CLASS - Contains EmployeePosition enum and employee details
 package CA_2;
 
 /**
