@@ -1,3 +1,4 @@
+// DEPARTMENT CLASS - Contains DepartmentType enum for store departments
 package CA_2;
 
 import java.util.ArrayList;
