@@ -1,3 +1,4 @@
+// PERSON CLASS - Base class for all employees and managers
 package CA_2;
 
 /**
