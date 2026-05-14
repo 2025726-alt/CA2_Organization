@@ -26,7 +26,7 @@ public class Main {
         loadDataFromFile("applicants.txt");
         
         boolean running = true;
-        
+        // Main method - Program entry point, displays menu and handles user input
         while (running) {
             MenuEnum.displayMenu();
             System.out.print("Enter your choice (1-" + MenuEnum.values().length + "): ");
