@@ -1,3 +1,4 @@
+// BINARY TREE - Level-order (breadth-first) insertion for employee hierarchy
 package CA_2;
 
 import java.util.*;
@@ -98,4 +99,5 @@ public class BinaryTree {
     public int getNodeCount() { return nodeCount; }
     public TreeNode getRoot() { return root; }
 }
+
 
