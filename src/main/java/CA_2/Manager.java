@@ -1,3 +1,4 @@
+// MANAGER CLASS - Contains ManagerType enum (HEAD_MANAGER, SENIOR_MANAGER, etc.)
 package CA_2;
 
 /**
