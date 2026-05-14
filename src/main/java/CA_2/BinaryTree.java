@@ -20,6 +20,7 @@ public class BinaryTree {
      * Insert employee using level-order (breadth-first) insertion
      * Fill left first, then right; when both taken, move to next node
      */
+    // Inserts employee using breadth-first level order (fill left to right)
     public void insertLevelOrder(Employee employee) {
         TreeNode newNode = new TreeNode(employee);
         
